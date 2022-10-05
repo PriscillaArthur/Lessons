@@ -7,7 +7,13 @@
     <title>Name</title>
 </head>
 <body>
-    
+  <ul>
+    <li>Name</li>
+    <li>Age</li>
+    <li>Status</li>
+    <li>Favorite Color</li>
+    <p>Blue</p>
+  </ul>  
 </body>
 </html>
 <html>
